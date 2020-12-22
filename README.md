@@ -1,4 +1,7 @@
 # Influx DB
+
+Die nachfolgende Dokumentation basiert auf einer Projektarbeit für das Modul 242 an der Technischen Berufsschule Zürich, von Yves Wetter, Ricardo Bras und Davide Logiurato.
+
 ## 1. Beschreibung
 InfluxDB ist ein hochleistungsfähiger Datenspeicher, der im Besonderen für Zeitreihendaten erfunden wurde. Er erlaubt Datenerfassung mit hohem Durchsatz sowohl Komprimierung und Echtzeitabfragen der erfassten Informationen. InfluxDB kommt in allen Anwendungsfällen als Datenspeicher zum Einsatz, binnen denen enorme Mengen von Fakten mit Zeitstempel verarbeitet werden, exemplarisch DevOps-Überwachungsdaten, Protokolldaten, Anwendungsmetriken, Fakten von IoT-Sensoren oder Echtzeitanalysedaten. Der Datenspeicher stellt genauso alternative Charakteristika disponibel, außerdem Datenaufbewahrungsrichtlinien. InfluxDB Enterprise offeriert Hochverfügbarkeit ebenso eine hochgradig erweiterbare Clustering-Lösung für Bereiche der Applikation mit Zeitreihendaten.
 
